@@ -1,5 +1,5 @@
 # 😸 Twitter Cat Bot
-😸 Hi! This is my first Twitter bot. Using [CatAPI](https://thecatapi.com/) I wanna make the world, a place more like CATS.
+😸 Hi! This is my first Twitter bot. Using [CatAPI](https://thecatapi.com/) I wanna make twitter great again.
 
 ![NYAN](https://media.giphy.com/media/7lsw8RenVcjCM/giphy.gif)
 
